@@ -2,9 +2,9 @@
     "ip":[
 
         {
-            "ss_name": "MRB_SetDamage",
+            "ss_name": "MRB_Defend",
             "id":"110.169.141.155",
-            "ver":"1.0.0"
+            "ver":"1.8.0"
         }
     ]
 }
